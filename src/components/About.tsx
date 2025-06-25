@@ -1,4 +1,3 @@
-
 export const About = () => {
   return (
     <section id="about" className="py-16 md:py-24 bg-white">
@@ -21,7 +20,7 @@ export const About = () => {
                 </p>
                 <p>
                   לאחר שירות של כ-10 שנים בצה"ל כקצין, יצאתי סוף סוף להגשים את החלום שלי – 
-                  ולעזור גם לכم להגשים את החלום לגינה המושלמת.
+                  ולעזור גם לכמ להגשים את החלום לגינה המושלמת.
                 </p>
                 <p className="text-garden-green font-semibold">
                   בין אם זו גינה קטנה או חצר גדולה, אני כאן כדי לעצב, לטפל ולשמור עליה חיה ומטופחת לאורך כל השנה.
@@ -32,9 +31,9 @@ export const About = () => {
             <div className="animate-fade-in">
               <div className="relative">
                 <img 
-                  src="https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-                  alt="דור עובד בגינה"
-                  className="rounded-2xl shadow-2xl hover-lift w-full h-[400px] object-cover"
+                  src="/lovable-uploads/profile dor.jpeg"
+                  alt="דור - גנן מקצועי"
+                  className="rounded-2xl shadow-2xl hover-lift w-full max-w-[350px] h-[480px] object-cover mx-auto"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-garden-green/20 to-transparent rounded-2xl" />
               </div>
