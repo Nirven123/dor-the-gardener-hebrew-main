@@ -8,6 +8,26 @@ import {
 
 const galleryImages = [
   {
+    src: "/lovable-uploads/4275f3d4-f010-43f4-aa28-cc6b612d2f26.png",
+    alt: "שבילי אבן טבעית עם צמחיה ירוקה מעוצבת"
+  },
+  {
+    src: "/lovable-uploads/6f01285b-7987-4725-9c72-9374db4417f7.png",
+    alt: "עץ זית מעוצב עם פרחים צבעוניים ותאורה"
+  },
+  {
+    src: "/lovable-uploads/c01a75e6-d437-4b73-a2a6-df840f035d83.png",
+    alt: "גינה מעוצבת עם גדר אבן וצמחיה נמוכה מטופחת"
+  },
+  {
+    src: "/lovable-uploads/fdbe50a5-3e2f-4c2b-a2d6-3872f8a36ac9.png",
+    alt: "גינת מרפסת צבעונית עם פרחים וצמחי נוי"
+  },
+  {
+    src: "/lovable-uploads/60582ac8-9f4b-4543-b479-1ba125f16d55.png",
+    alt: "צמחי נוי טרופיים בעציצים עם חצץ אבן"
+  },
+  {
     src: "/lovable-uploads/WhatsApp Image 2025-06-24 at 21.52.34.jpeg",
     alt: "גינה מעוצבת עם דשא ירוק ופרחים צבעוניים"
   },

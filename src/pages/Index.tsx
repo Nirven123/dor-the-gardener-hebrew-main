@@ -22,7 +22,7 @@ const Index = () => {
           <video
             src="/lovable-uploads/WhatsApp Video 2025-06-24 at 21.52.43.mp4"
             controls
-            className="mx-auto rounded-xl shadow-lg w-full max-w-[800px] aspect-video"
+            className="mx-auto rounded-xl shadow-lg w-full max-w-[600px] h-auto"
           />
         </div>
       </section>
